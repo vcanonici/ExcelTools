@@ -1,6 +1,6 @@
 # 📊 ExcelTools para Startups
 
-[![License: Restrito](https://img.shields.io/badge/License-Uso%20Restrito-orange.svg)](#-licença)
+[![License: Não-Comercial](https://img.shields.io/badge/License-Não%20Comercial-orange.svg)](#-licença)
 [![Excel](https://img.shields.io/badge/Excel-Compatible-green.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Startup Ready](https://img.shields.io/badge/Startup-Ready-blue.svg)](#)
 
@@ -10,15 +10,15 @@ Uma coleção de planilhas Excel otimizadas e prontas para uso, desenvolvidas es
 
 ## 🎯 Sobre o Projeto
 
-O **ExcelTools para Startups** nasceu da necessidade de ferramentas práticas e realistas para análise de crescimento. Cansado de ver previsões que só funcionam no Excel e morrem no mundo real, desenvolvi modelos matemáticos proprietários que refletem a verdadeira dinâmica das empresas.
+O **ExcelTools para Startups** nasceu da necessidade de ferramentas práticas e realistas para análise de crescimento. Cansado de ver previsões que só funcionam no Excel e morrem no mundo real, desenvolvi implementações dos modelos matemáticos que refletem a verdadeira dinâmica das empresas.
 
-As ferramentas utilizam fórmulas matemáticas protegidas por direitos autorais, disponibilizadas para uso com restrições específicas que preservam a propriedade intelectual do autor.
+As planilhas estão disponíveis para uso não-comercial. Os modelos matemáticos são conceitos científicos que qualquer pessoa pode estudar e implementar de forma independente.
 
 ### Por que estas ferramentas?
-- ✅ **Modelos matemáticos proprietários**: Fórmulas desenvolvidas e testadas na prática
-- ✅ **Proteção intelectual**: Garante integridade e valor das análises
-- ✅ **Fácil de usar**: Interface familiar do Excel, campos protegidos para evitar erros
-- ✅ **Suporte especializado**: Consultoria disponível para implementações avançadas
+- ✅ **Modelos matemáticos testados**: Implementações práticas de conceitos científicos
+- ✅ **Pronto para usar**: Interface familiar do Excel, sem necessidade de programação
+- ✅ **Educativo**: Aprenda os conceitos por trás dos modelos de crescimento
+- ✅ **Suporte disponível**: Consultoria para implementações comerciais personalizadas
 
 ## 🛠️ Ferramentas Disponíveis
 
@@ -52,11 +52,11 @@ Um modelo matemático inovador que divide o crescimento de clientes em **TRÊS E
 
 **💡 O diferencial:** Este não é só "número bonito" - o modelo mostra o momento certo de cada decisão estratégica e te prepara para quando o crescimento exponencial inevitavelmente chegar ao fim.
 
-> **⚠️ Importante**: As planilhas possuem proteção nas células com fórmulas para preservar a propriedade intelectual. Apenas campos específicos de entrada de dados estão disponíveis para edição. Para acesso completo ou customizações avançadas, entre em contato!
+> **📚 Conceitos Abertos**: Os modelos matemáticos são conceitos científicos que qualquer pessoa pode estudar e implementar. Para uso comercial das planilhas ou consultoria especializada, conecte-se via LinkedIn!
 
 ## 🚀 Próximas Ferramentas
 
-Modelos matemáticos em desenvolvimento:
+Implementações de modelos matemáticos em desenvolvimento:
 
 - 💰 **Análise Financeira Avançada**: Modelos de cash flow e runway otimizados
 - 📊 **Pipeline de Vendas Inteligente**: Algoritmos de conversão e previsão  
@@ -64,7 +64,7 @@ Modelos matemáticos em desenvolvimento:
 - 🎯 **ROI de Marketing Científico**: Modelos de atribuição multi-canal
 - 📦 **Otimização de Estoque**: Algoritmos de demanda e reposição
 
-*Cada ferramenta será lançada com modelos matemáticos proprietários e proteção de propriedade intelectual.*
+*Os conceitos matemáticos são abertos para estudo. As implementações estarão disponíveis para uso não-comercial.*
 
 ## 💡 Como Usar
 
@@ -87,17 +87,18 @@ Modelos matemáticos em desenvolvimento:
 - 🐛 **Issues**: Reporte bugs ou sugira funcionalidades
 - 💬 **Discussões**: Participe de conversas sobre modelagem matemática
 - 📚 **Feedback**: Compartilhe como as ferramentas estão ajudando sua startup
+- 🧮 **Modelos**: Desenvolva suas próprias implementações dos conceitos
 
-**Nota**: As fórmulas proprietárias não estão abertas para contribuição externa. Para parcerias em desenvolvimento de novos modelos, entre em contato via LinkedIn.
+**Nota**: Os conceitos matemáticos são livres para implementação. Para parcerias comerciais ou desenvolvimento conjunto, entre em contato via LinkedIn.
 
 ## 📋 Requisitos e Compatibilidade
 
 - **Excel**: Microsoft Excel 2016 ou superior
 - **Sistema**: Windows, Mac ou Excel Online
 - **Conhecimento**: Básico em Excel (inserção de dados)
-- **Limitações**: Fórmulas protegidas, somente campos designados são editáveis
+- **Flexibilidade**: Conceitos abertos para implementação própria
 
-*Para implementações que requerem modificação das fórmulas proprietárias, consultoria especializada está disponível.*
+*Para soluções comerciais personalizadas baseadas nos modelos, consultoria está disponível.*
 
 ## 🆘 Suporte
 
@@ -119,31 +120,33 @@ Conecte-se comigo no LinkedIn! Adoro conversar sobre:
 
 **Precisa de customizações nas planilhas?** Entre em contato via LinkedIn para discutirmos soluções específicas para seu negócio!
 
-## 🔒 Sobre a Proteção das Planilhas
+## 🔒 Sobre o Uso das Planilhas
 
-Para preservar a propriedade intelectual e o valor das fórmulas desenvolvidas, as planilhas possuem proteção em células específicas. Isso garante:
+As planilhas estão disponíveis para uso não-comercial e educacional. Isso significa:
 
-- 🛡️ **Integridade das fórmulas**: Evita alterações acidentais que quebrem os cálculos
-- 📊 **Experiência consistente**: Todos os usuários têm a mesma experiência
-- 💼 **Valor profissional**: Mantém a qualidade e confiabilidade das análises
+- 📚 **Aprendizado**: Estude os conceitos e modelos matemáticos apresentados
+- 🔬 **Experimentação**: Use para análises internas da sua startup
+- 🧮 **Implementação própria**: Desenvolva suas versões baseadas nos conceitos
+- 💼 **Uso comercial**: Requer autorização prévia para consultoria ou venda
 
 **Campos liberados para edição:**
 - ✅ Entrada de dados (células destacadas em verde)
 - ✅ Parâmetros de configuração
-- ✅ Campos de personalização básica
+- ✅ Adaptações para estudo
 
-**Precisa de mais flexibilidade?** Entre em contato via LinkedIn para discutirmos versões customizadas ou consultoria especializada!
+**Quer usar comercialmente?** Entre em contato via LinkedIn para discutirmos licenciamento ou parcerias!
 
 ## 📜 Licença
 
-Este projeto está licenciado sob **Licença de Uso Restrito** - veja o arquivo [LICENSE](LICENSE) para detalhes completos.
+Este projeto está licenciado sob **Licença de Uso Não-Comercial** - veja o arquivo [LICENSE](LICENSE) para detalhes completos.
 
 **Resumo da Licença:**
-- ✅ **Permitido**: Uso das planilhas, inserção de dados, análise dos resultados
-- ❌ **Restrito**: Modificação das fórmulas, redistribuição, engenharia reversa
-- 💼 **Comercial**: Requer autorização para uso das fórmulas proprietárias
+- ✅ **Permitido**: Uso não-comercial, estudo dos modelos, implementação própria dos conceitos
+- ❌ **Restrito**: Uso comercial das planilhas sem autorização prévia
+- 🧮 **Conceitos**: Os modelos matemáticos são livres para estudo e implementação
+- 💼 **Comercial**: Requer autorização para uso comercial das planilhas
 
-*Esta licença protege a propriedade intelectual dos modelos matemáticos desenvolvidos.*
+*Os conceitos matemáticos são de domínio científico. Esta licença regula apenas o uso comercial das implementações.*
 
 ## ⭐ Apoie o Projeto
 
@@ -155,7 +158,7 @@ Se estas ferramentas estão agregando valor à sua startup:
 - 🤝 **Conecte-se**: Vamos conversar sobre crescimento no LinkedIn
 - 💼 **Consultoria**: Considere implementações customizadas para seu negócio
 
-**Lembre-se**: O valor está nos modelos matemáticos proprietários e na expertise aplicada!
+**Lembre-se**: O valor está na implementação prática e na consultoria especializada, não na proteção dos conceitos matemáticos!
 
 ---
 

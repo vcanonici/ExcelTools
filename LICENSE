@@ -1,33 +1,36 @@
-ExcelTools para Startups - Licença de Uso Restrito
+ExcelTools para Startups - Licença de Uso Não-Comercial
 
 Copyright (c) 2025 Vinicius Garcia Canonici
 
 Esta licença concede permissão para uso das planilhas Excel sob as seguintes condições:
 
 PERMITIDO:
-✅ Uso pessoal e empresarial das planilhas
-✅ Inserção de dados nos campos habilitados para edição
-✅ Visualização e análise dos resultados gerados
+✅ Uso pessoal e empresarial não-comercial das planilhas
+✅ Estudo e análise dos modelos matemáticos apresentados
+✅ Desenvolvimento próprio baseado nos conceitos matemáticos
+✅ Inserção de dados e uso dos resultados para análise interna
 ✅ Compartilhamento do link oficial do repositório
-✅ Modificação de parâmetros de configuração designados
+✅ Criação de implementações próprias dos modelos matemáticos
 
 RESTRITO:
-❌ Modificação, cópia ou extração das fórmulas proprietárias
-❌ Remoção ou alteração da proteção das células
-❌ Redistribuição das planilhas originais ou modificadas
-❌ Uso comercial das fórmulas matemáticas sem autorização
-❌ Remoção dos créditos de autoria
-❌ Engenharia reversa dos modelos matemáticos
+❌ Uso comercial das planilhas sem autorização prévia
+❌ Venda ou licenciamento das planilhas para terceiros
+❌ Redistribuição das planilhas como produto próprio
+❌ Remoção dos créditos de autoria nas planilhas originais
+❌ Representação como trabalho próprio
 
-USO COMERCIAL AVANÇADO:
-Para implementações customizadas, consultorias especializadas ou uso comercial 
-das fórmulas proprietárias, entre em contato via LinkedIn: 
-https://www.linkedin.com/in/vcanonici/
+USO COMERCIAL:
+Para uso comercial das planilhas (venda, licenciamento, consultoria baseada 
+nas planilhas, ou oferecimento como serviço), é necessária autorização prévia.
+Entre em contato via LinkedIn: https://www.linkedin.com/in/vcanonici/
+
+MODELOS MATEMÁTICOS:
+Os modelos e conceitos matemáticos apresentados são de domínio científico.
+Qualquer pessoa pode desenvolver suas próprias implementações baseadas
+nos conceitos matemáticos descritos. Esta licença não restringe o 
+desenvolvimento independente de soluções similares.
 
 ISENÇÃO DE RESPONSABILIDADE:
 As planilhas são fornecidas "como estão", sem garantias de qualquer tipo. 
 O autor não se responsabiliza por decisões comerciais tomadas com base nos 
 resultados gerados pelas ferramentas.
-
-Esta licença prevalece sobre qualquer licença genérica que possa estar 
-referenciada no repositório.
