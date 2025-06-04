@@ -1,21 +1,33 @@
-MIT License
+ExcelTools para Startups - Licença de Uso Restrito
 
 Copyright (c) 2025 Vinicius Garcia Canonici
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Esta licença concede permissão para uso das planilhas Excel sob as seguintes condições:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+PERMITIDO:
+✅ Uso pessoal e empresarial das planilhas
+✅ Inserção de dados nos campos habilitados para edição
+✅ Visualização e análise dos resultados gerados
+✅ Compartilhamento do link oficial do repositório
+✅ Modificação de parâmetros de configuração designados
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+RESTRITO:
+❌ Modificação, cópia ou extração das fórmulas proprietárias
+❌ Remoção ou alteração da proteção das células
+❌ Redistribuição das planilhas originais ou modificadas
+❌ Uso comercial das fórmulas matemáticas sem autorização
+❌ Remoção dos créditos de autoria
+❌ Engenharia reversa dos modelos matemáticos
+
+USO COMERCIAL AVANÇADO:
+Para implementações customizadas, consultorias especializadas ou uso comercial 
+das fórmulas proprietárias, entre em contato via LinkedIn: 
+https://www.linkedin.com/in/vcanonici/
+
+ISENÇÃO DE RESPONSABILIDADE:
+As planilhas são fornecidas "como estão", sem garantias de qualquer tipo. 
+O autor não se responsabiliza por decisões comerciais tomadas com base nos 
+resultados gerados pelas ferramentas.
+
+Esta licença prevalece sobre qualquer licença genérica que possa estar 
+referenciada no repositório.

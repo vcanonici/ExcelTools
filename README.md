@@ -1,6 +1,6 @@
 # 📊 ExcelTools para Startups
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Restrito](https://img.shields.io/badge/License-Uso%20Restrito-orange.svg)](#-licença)
 [![Excel](https://img.shields.io/badge/Excel-Compatible-green.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Startup Ready](https://img.shields.io/badge/Startup-Ready-blue.svg)](#)
 
@@ -10,15 +10,15 @@ Uma coleção de planilhas Excel otimizadas e prontas para uso, desenvolvidas es
 
 ## 🎯 Sobre o Projeto
 
-O **ExcelTools para Startups** nasceu da necessidade de ferramentas práticas e realistas para análise de crescimento. Cansado de ver previsões que só funcionam no Excel e morrem no mundo real, desenvolvi modelos matemáticos que refletem a verdadeira dinâmica das empresas.
+O **ExcelTools para Startups** nasceu da necessidade de ferramentas práticas e realistas para análise de crescimento. Cansado de ver previsões que só funcionam no Excel e morrem no mundo real, desenvolvi modelos matemáticos proprietários que refletem a verdadeira dinâmica das empresas.
 
-Sabemos que nem toda startup tem acesso a ferramentas caras de analytics, por isso criamos soluções baseadas em modelos matemáticos sólidos usando o poder do Excel.
+As ferramentas utilizam fórmulas matemáticas protegidas por direitos autorais, disponibilizadas para uso com restrições específicas que preservam a propriedade intelectual do autor.
 
-### Por que Excel?
-- ✅ **Acessível**: Praticamente todas as empresas já têm acesso ao Excel
-- ✅ **Familiar**: Sua equipe já conhece a ferramenta
-- ✅ **Flexível**: Pode ser customizado conforme suas necessidades
-- ✅ **Sem custos adicionais**: Não precisa pagar por mais uma ferramenta SaaS
+### Por que estas ferramentas?
+- ✅ **Modelos matemáticos proprietários**: Fórmulas desenvolvidas e testadas na prática
+- ✅ **Proteção intelectual**: Garante integridade e valor das análises
+- ✅ **Fácil de usar**: Interface familiar do Excel, campos protegidos para evitar erros
+- ✅ **Suporte especializado**: Consultoria disponível para implementações avançadas
 
 ## 🛠️ Ferramentas Disponíveis
 
@@ -56,48 +56,48 @@ Um modelo matemático inovador que divide o crescimento de clientes em **TRÊS E
 
 ## 🚀 Próximas Ferramentas
 
-Estamos trabalhando em mais ferramentas para sua startup:
+Modelos matemáticos em desenvolvimento:
 
-- 💰 **Análise Financeira**: Cash flow, runway, break-even
-- 📊 **Sales Pipeline**: Gestão e análise do funil de vendas  
-- 👥 **HR Analytics**: Métricas de pessoas e produtividade
-- 🎯 **Marketing ROI**: Análise de performance de campanhas
-- 📦 **Gestão de Estoque**: Controle e otimização de inventário
+- 💰 **Análise Financeira Avançada**: Modelos de cash flow e runway otimizados
+- 📊 **Pipeline de Vendas Inteligente**: Algoritmos de conversão e previsão  
+- 👥 **HR Analytics Preditivo**: Métricas de retenção e produtividade
+- 🎯 **ROI de Marketing Científico**: Modelos de atribuição multi-canal
+- 📦 **Otimização de Estoque**: Algoritmos de demanda e reposição
+
+*Cada ferramenta será lançada com modelos matemáticos proprietários e proteção de propriedade intelectual.*
 
 ## 💡 Como Usar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/ExcelTools.git
-   ```
+1. **Baixe as planilhas**:
+   - Acesse os arquivos `.xlsx` diretamente do repositório
+   - Ou clone para ter acesso local: `git clone https://github.com/seu-usuario/ExcelTools.git`
 
-2. **Abra a ferramenta desejada** no Microsoft Excel
+2. **Abra no Microsoft Excel** (versão 2016 ou superior)
 
-3. **Siga as instruções** dentro de cada planilha
+3. **Use os campos liberados** (destacados em verde) para inserir seus dados
 
-4. **Customize conforme necessário** para seu negócio
+4. **Analise os resultados** nos dashboards automáticos
 
-## 🤝 Contribuindo
+5. **Para customizações avançadas**, conecte-se via LinkedIn
 
-Sua startup desenvolveu uma planilha útil? Compartilhe com a comunidade!
+## 🤝 Colaboração
 
-1. Fork este repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-ferramenta`)
-3. Commit suas mudanças (`git commit -am 'Add: Nova ferramenta de análise'`)
-4. Push para a branch (`git push origin feature/nova-ferramenta`)
-5. Abra um Pull Request
+**Interessado em contribuir ou sugerir melhorias?**
 
-### Diretrizes para Contribuição
-- Documente bem sua ferramenta
-- Inclua exemplos de dados (dados fictícios)
-- Mantenha as fórmulas comentadas
-- Teste em diferentes versões do Excel
+- 🐛 **Issues**: Reporte bugs ou sugira funcionalidades
+- 💬 **Discussões**: Participe de conversas sobre modelagem matemática
+- 📚 **Feedback**: Compartilhe como as ferramentas estão ajudando sua startup
 
-## 📋 Requisitos
+**Nota**: As fórmulas proprietárias não estão abertas para contribuição externa. Para parcerias em desenvolvimento de novos modelos, entre em contato via LinkedIn.
 
-- Microsoft Excel 2016 ou superior
-- Conhecimento básico em Excel (funções e gráficos)
-- Para algumas ferramentas avançadas: Excel com suporte a Power Query
+## 📋 Requisitos e Compatibilidade
+
+- **Excel**: Microsoft Excel 2016 ou superior
+- **Sistema**: Windows, Mac ou Excel Online
+- **Conhecimento**: Básico em Excel (inserção de dados)
+- **Limitações**: Fórmulas protegidas, somente campos designados são editáveis
+
+*Para implementações que requerem modificação das fórmulas proprietárias, consultoria especializada está disponível.*
 
 ## 🆘 Suporte
 
@@ -136,24 +136,33 @@ Para preservar a propriedade intelectual e o valor das fórmulas desenvolvidas, 
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob **Licença de Uso Restrito** - veja o arquivo [LICENSE](LICENSE) para detalhes completos.
+
+**Resumo da Licença:**
+- ✅ **Permitido**: Uso das planilhas, inserção de dados, análise dos resultados
+- ❌ **Restrito**: Modificação das fórmulas, redistribuição, engenharia reversa
+- 💼 **Comercial**: Requer autorização para uso das fórmulas proprietárias
+
+*Esta licença protege a propriedade intelectual dos modelos matemáticos desenvolvidos.*
 
 ## ⭐ Apoie o Projeto
 
-Se estas ferramentas estão ajudando sua startup, considere:
+Se estas ferramentas estão agregando valor à sua startup:
 
-- ⭐ Dar uma estrela neste repositório
-- 🐛 Reportar bugs que encontrar
-- 💡 Sugerir novas ferramentas
-- 🤝 Contribuir com código
-- 📢 Compartilhar com outros empreendedores
+- ⭐ **Estrela**: Dê uma estrela neste repositório
+- 📢 **Compartilhe**: Indique para outros empreendedores
+- 💬 **Feedback**: Relate como as ferramentas estão ajudando
+- 🤝 **Conecte-se**: Vamos conversar sobre crescimento no LinkedIn
+- 💼 **Consultoria**: Considere implementações customizadas para seu negócio
+
+**Lembre-se**: O valor está nos modelos matemáticos proprietários e na expertise aplicada!
 
 ---
 
 <div align="center">
 
-**Desenvolvido com ❤️ para a comunidade startup brasileira**
+**Desenvolvido com ❤️ para a comunidade**
 
-[Vinicius Garcia Canonici](https://github.com/seu-usuario) • 2025
+[Vinicius Garcia Canonici](https://github.com/vcanonici) • 2025
 
 </div>
